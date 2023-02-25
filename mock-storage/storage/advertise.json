@@ -1,0 +1,29 @@
+{
+  "ads": [
+    {
+      "id": 0,
+      "name": "youtube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "id": 1,
+      "name": "facebook",
+      "url": "https://www.facebook.com"
+    },
+    {
+      "id": 2,
+      "name": "twitter",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "id": 3,
+      "name": "ku",
+      "url": "https://www.ku.ac.th/th"
+    },
+    {
+      "id": 4,
+      "name": "github",
+      "url": "https://www.github.com"
+    }
+  ]
+}
